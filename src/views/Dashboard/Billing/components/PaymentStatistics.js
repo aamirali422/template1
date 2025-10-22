@@ -18,6 +18,7 @@ const PaymentStatistics = ({ icon, title, description, amount }) => {
           <IconBox as='box' h={"60px"} w={"60px"} bg={iconTeal}>
             {icon}
           </IconBox>
+          
           <Flex
             direction='column'
             m='14px'

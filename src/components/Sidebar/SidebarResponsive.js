@@ -220,8 +220,7 @@ function SidebarResponsive(props) {
         ref={mainPanel}
         alignItems="center"
       >
-        <HamburgerIcon
-          color={hamburgerColor}
+        <HamburgerIcon color="teal.300"
           w="18px"
           h="18px"
           ref={btnRef}
